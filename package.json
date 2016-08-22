@@ -1,0 +1,28 @@
+{
+  "name": "@agilatech/zetta-rmy85000-linux-driver",
+  "version": "0.8.0",
+  "description": "Zetta RM Young 85000 driver for Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "zetta-device": "*",
+    "zetta-scout": "*",
+    "@agilatech/rmy85000": "*"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "zetta",
+    "sensor",
+    "RM Young",
+    "anemometer",
+    "wind",
+    "wind speed",
+    "beaglebone",
+    "raspberry pi"
+  ]
+}
