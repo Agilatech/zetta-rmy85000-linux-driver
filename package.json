@@ -1,6 +1,6 @@
 {
   "name": "@agilatech/zetta-rmy85000-linux-driver",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Zetta RM Young 85000 driver for Linux",
   "main": "index.js",
   "scripts": {
